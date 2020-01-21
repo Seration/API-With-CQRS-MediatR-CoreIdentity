@@ -1,0 +1,11 @@
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netstandard2.1/Persistence.pdb
