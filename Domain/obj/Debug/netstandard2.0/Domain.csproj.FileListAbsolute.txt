@@ -1,8 +1,0 @@
-/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netstandard2.0/Domain.deps.json
-/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netstandard2.0/Domain.dll
-/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netstandard2.0/Domain.pdb
-/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
-/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
-/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
-/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netstandard2.0/Domain.dll
-/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netstandard2.0/Domain.pdb
