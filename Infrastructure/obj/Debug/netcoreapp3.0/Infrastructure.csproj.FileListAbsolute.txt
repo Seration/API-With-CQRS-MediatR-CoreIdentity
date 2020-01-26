@@ -1,0 +1,15 @@
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.deps.json
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.dll
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.pdb
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Application.dll
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRS/Infrastructure/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.csproj.CopyComplete
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.dll
+/Users/sercan/Desktop/CQRS/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.pdb
