@@ -1,0 +1,78 @@
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Users/sercan/Desktop/CQRS/Application/obj/Debug/netcoreapp3.0/Application.pdb
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Application.dll
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Application.pdb
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.dll
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.pdb
+E:/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRS/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Volumes/NO NAME/CQRS/Application/obj/Debug/netcoreapp3.0/Application.pdb
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Volumes/NO NAME/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.pdb
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.dll
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.pdb
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.dll
+E:/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.pdb
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRSX/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Users/sercan/Desktop/CQRSX/Application/obj/Debug/netcoreapp3.0/Application.pdb

@@ -1,0 +1,47 @@
+/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+E:/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+E:/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+E:/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+E:/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Volumes/NO NAME/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRS/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Volumes/NO NAME/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRS/Domain/obj/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Volumes/NO NAME/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Volumes/NO NAME/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+E:/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+E:/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+E:/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+E:/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+E:/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Users/sercan/Desktop/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRSX/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRSX/Domain/obj/Debug/netcoreapp3.0/Domain.pdb

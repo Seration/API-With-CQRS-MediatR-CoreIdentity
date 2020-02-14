@@ -1,0 +1,66 @@
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+E:/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+E:/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Volumes/NO NAME/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRS/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRS/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRS/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Volumes/NO NAME/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Volumes/NO NAME/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Volumes/NO NAME/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Volumes/NO NAME/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+E:/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+E:/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+E:/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+E:/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Users/sercan/Desktop/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/sercan/Desktop/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/sercan/Desktop/CQRSX/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Users/sercan/Desktop/CQRSX/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb

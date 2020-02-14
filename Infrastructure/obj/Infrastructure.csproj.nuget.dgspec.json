@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sercan/Desktop/CQRS/Infrastructure/Infrastructure.csproj": {}
+    "/Users/sercan/Desktop/CQRSX/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/sercan/Desktop/CQRS/Application/Application.csproj": {
+    "/Users/sercan/Desktop/CQRSX/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sercan/Desktop/CQRS/Application/Application.csproj",
+        "projectUniqueName": "/Users/sercan/Desktop/CQRSX/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/sercan/Desktop/CQRS/Application/Application.csproj",
+        "projectPath": "/Users/sercan/Desktop/CQRSX/Application/Application.csproj",
         "packagesPath": "/Users/sercan/.nuget/packages/",
-        "outputPath": "/Users/sercan/Desktop/CQRS/Application/obj/",
+        "outputPath": "/Users/sercan/Desktop/CQRSX/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sercan/.nuget/NuGet/NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj": {
-                "projectPath": "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj"
+              "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj": {
+                "projectPath": "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj"
               },
-              "/Users/sercan/Desktop/CQRS/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/sercan/Desktop/CQRS/Persistence/Persistence.csproj"
+              "/Users/sercan/Desktop/CQRSX/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/sercan/Desktop/CQRSX/Persistence/Persistence.csproj"
               }
             }
           }
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj": {
+    "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj",
+        "projectPath": "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj",
         "packagesPath": "/Users/sercan/.nuget/packages/",
-        "outputPath": "/Users/sercan/Desktop/CQRS/Domain/obj/",
+        "outputPath": "/Users/sercan/Desktop/CQRSX/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sercan/.nuget/NuGet/NuGet.Config"
@@ -123,18 +123,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sercan/Desktop/CQRS/Infrastructure/Infrastructure.csproj": {
+    "/Users/sercan/Desktop/CQRSX/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sercan/Desktop/CQRS/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/sercan/Desktop/CQRSX/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/sercan/Desktop/CQRS/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/sercan/Desktop/CQRSX/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/sercan/.nuget/packages/",
-        "outputPath": "/Users/sercan/Desktop/CQRS/Infrastructure/obj/",
+        "outputPath": "/Users/sercan/Desktop/CQRSX/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sercan/.nuget/NuGet/NuGet.Config"
@@ -148,8 +148,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/sercan/Desktop/CQRS/Application/Application.csproj": {
-                "projectPath": "/Users/sercan/Desktop/CQRS/Application/Application.csproj"
+              "/Users/sercan/Desktop/CQRSX/Application/Application.csproj": {
+                "projectPath": "/Users/sercan/Desktop/CQRSX/Application/Application.csproj"
               }
             }
           }
@@ -183,18 +183,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sercan/Desktop/CQRS/Persistence/Persistence.csproj": {
+    "/Users/sercan/Desktop/CQRSX/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sercan/Desktop/CQRS/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/sercan/Desktop/CQRSX/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/sercan/Desktop/CQRS/Persistence/Persistence.csproj",
+        "projectPath": "/Users/sercan/Desktop/CQRSX/Persistence/Persistence.csproj",
         "packagesPath": "/Users/sercan/.nuget/packages/",
-        "outputPath": "/Users/sercan/Desktop/CQRS/Persistence/obj/",
+        "outputPath": "/Users/sercan/Desktop/CQRSX/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sercan/.nuget/NuGet/NuGet.Config"
@@ -208,8 +208,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj": {
-                "projectPath": "/Users/sercan/Desktop/CQRS/Domain/Domain.csproj"
+              "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj": {
+                "projectPath": "/Users/sercan/Desktop/CQRSX/Domain/Domain.csproj"
               }
             }
           }
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }

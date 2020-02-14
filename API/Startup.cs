@@ -47,15 +47,16 @@ namespace API
 
             services.AddMediatR(typeof(List.Handler).Assembly);
 
-            services.AddControllers(opt =>
+            //services.AddControllers(opt =>
+            //{
+            //    var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+            //    opt.Filters.Add(new AuthorizeFilter(policy));
+            //})
+
+            services.AddControllers().AddFluentValidation(cfg =>
             {
-                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
-                opt.Filters.Add(new AuthorizeFilter(policy));
-            })
-                .AddFluentValidation(cfg =>
-                {
-                    cfg.RegisterValidatorsFromAssemblyContaining<Create>();
-                });
+                cfg.RegisterValidatorsFromAssemblyContaining<Create>();
+            });
 
             var builder = services.AddIdentityCore<AppUser>();
             var identityBuilder = new IdentityBuilder(builder.UserType, builder.Services);
@@ -65,20 +66,19 @@ namespace API
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["TokenKey"]));
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-            .AddJwtBearer(opt =>
-            {
-                opt.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                .AddJwtBearer(opt =>
                 {
-                    ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = key,
-                    ValidateAudience = false,
-                    ValidateIssuer = false
-                };
-            });
+                    opt.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = key,
+                        ValidateAudience = false,
+                        ValidateIssuer = false
+                    };
+                });
 
-          services.AddScoped<IJwtGenerator, JwtGenerator>();
-          services.AddScoped<IUserAccessor, UserAccessor>();
-
+            services.AddScoped<IJwtGenerator, JwtGenerator>();
+            services.AddScoped<IUserAccessor, UserAccessor>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -88,16 +88,14 @@ namespace API
 
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+               // app.UseDeveloperExceptionPage();
             }
 
-
-
             app.UseRouting();
-            app.UseCors("CorsPolicy");
-
+            //app.UseCors("CorsPolicy");
             app.UseAuthentication();
             app.UseAuthorization();
+            //app.UseMvc();
 
             app.UseEndpoints(endpoints =>
             {
